@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: prod
+    active: dev
   application:
     name: bif
 
@@ -46,8 +46,8 @@ management:
     health:
       show-details: when-authorized
   health:
-    redis:
-      enabled: true
+#    redis:
+#      enabled: true
     db:
       enabled: true
 
