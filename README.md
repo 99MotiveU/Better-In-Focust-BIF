@@ -3,7 +3,7 @@
 
 > "나만의 속도로 세상과 연결될 수 있도록"
 
-**Better In Focus(BIF)**는 경계선 지능인들이 일상적인 과업을 관리하고, 사회적 상호작용을 연습하며, 자신의 감정을 더 잘 이해하고 표현할 수 있도록 돕는 AI 기반 자립 지원 서비스입니다. 저희 팀 SAGE는 기술의 힘을 통해 복지 사각지대에 있는 분들의 자립을 돕고, 그들이 사회의 일원으로 자신감을 가질 수 있도록 지원하고자 합니다.
+**Better In Focus(BIF)** 는 경계선 지능인들이 일상적인 과업을 관리하고, 사회적 상호작용을 연습하며, 자신의 감정을 더 잘 이해하고 표현할 수 있도록 돕는 AI 기반 자립 지원 서비스입니다. 저희 팀 SAGE는 기술의 힘을 통해 복지 사각지대에 있는 분들의 자립을 돕고, 그들이 사회의 일원으로 자신감을 가질 수 있도록 지원하고자 합니다.
 
 <br>
 
@@ -28,7 +28,7 @@ BIF는 사용자의 인지적 부담을 최소화하고, 긍정적인 피드백�
 | **Back-end** | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white"> <img src="https://img.shields.io/badge/JPA-5A2D23?style=for-the-badge&logo=hibernate&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"> <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> |
 | **Front-end** | <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"> |
 | **AI** | <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"> <img src="https://img.shields.io/badge/Azure_AI_Content_Safety-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"> |
-| **DevOps & Infra** | <img src=""> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"> |
+| **DevOps & Infra** | <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"> |
 
 <br>
 
