@@ -42,8 +42,6 @@ BIF는 확장성과 안정성을 고려하여 MSA(Micro-Service Architecture) �
 - **AI Service**: **Azure OpenAI**를 활용하여 자연스러운 대화형 AI 기능을 구현했으며, **Azure AI Content Safety**를 통해 유해 콘텐츠를 필터링하여 안전한 서비스 환경을 보장합니다.
 - **CI/CD**: **GitHub Actions**를 통해 소스 코드 변경 시 자동으로 빌드, 테스트, 배포가 이루어지는 CI/CD 파이프라인을 구축하여 개발 효율성과 안정성을 높였습니다.
 
-*(시스템 구성도 이미지는 프로젝트 발표 자료를 참고하여 추가해주세요.)*
-
 <br>
 
 ## 🚀 시작하기 (Getting Started)
