@@ -28,7 +28,7 @@ BIF는 사용자의 인지적 부담을 최소화하고, 긍정적인 피드백�
 | **Back-end** | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white"> <img src="https://img.shields.io/badge/JPA-5A2D23?style=for-the-badge&logo=hibernate&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"> <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> |
 | **Front-end** | <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"> |
 | **AI** | <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"> <img src="https://img.shields.io/badge/Azure_AI_Content_Safety-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"> |
-| **DevOps & Infra** | <img src="https.img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"> |
+| **DevOps & Infra** | <img src="https://img.shields.io/badge/Azure%20Functions-0072B6.svg?style=flat&logo=azure-functions&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"> |
 
 <br>
 
@@ -99,7 +99,7 @@ BIF는 확장성과 안정성을 고려하여 MSA(Micro-Service Architecture) �
 
 | 이름 | 역할 | GitHub |
 | :--- | :--- | :--- |
-| **유동기** | **마이페이지/통계(BE/FE), Azure 인프라 총괄, ERD 설계, 에러 정책** | `(본인 GitHub ID)` |
+| **유동기** | **마이페이지/통계(BE/FE), Azure 인프라 총괄, ERD 설계, 에러 정책** | [99MotiveU](https://github.com/99MotiveU) |
 | 장민호 | GitHub Projects/Issues 관리, Todo 기능(BE/FE), Azure 배포 | `(팀원 GitHub ID)` |
 | 노종현 | 시뮬레이션 기능(BE/FE), 회의록 작성 | `(팀원 GitHub ID)` |
 | 오영화 | Figma 디자인, 소셜 로그인(BE/FE), 인증/인가, Azure 배포 | `(팀원 GitHub ID)` |
