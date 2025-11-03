@@ -7,6 +7,8 @@
 
 <br>
 
+URL : https://ca-bif-frontend.purpleriver-2947c63e.koreacentral.azurecontainerapps.io
+
 ## ✨ 주요 기능 (Key Features)
 
 BIF는 사용자의 인지적 부담을 최소화하고, 긍정적인 피드백을 통해 자기 효능감을 높일 수 있도록 설계되었습니다.
